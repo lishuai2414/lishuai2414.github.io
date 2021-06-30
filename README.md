@@ -1,14 +1,7 @@
-# skyvow.github.io
+# lishuai2414.github.io
 
 基于 React + React-router + ES6 前端项目
 
-## 技术选型
-
-* [React](https://github.com/facebook/react)
-* [React-router](https://github.com/rackt/react-router)
-* [Webpack](https://github.com/webpack/webpack)
-* [Babel](https://github.com/babel/babel)
-* [ESlint](http://eslint.org)
 
 ## 目录结构
 
@@ -44,18 +37,12 @@ src/
 ## 使用方法
 
 ```sh
-$ git clone https://github.com/skyvow/skyvow.github.io.git
-$ cd skyvow.github.io
+$ git clone https://github.com/lishuai2414/lishuai2414.github.io.git
+$ cd lishuai2414.github.io
 $ npm install
 $ npm run dll & npm start
 ```
 
-|`npm run <script>`|描述|
-|------------------|-----------|
-|`dll`|动态链接库，预编译资源模块，必须在 `start` 之前执行一次。|
-|`start`|服务启动在 3000 端口，代码热替换开启。|
-|`build`|编译程序到 build 目录下（默认目录 ~/build）。|
-|`lint`|检查所有 .js 文件是否规范。[更多](http://eslint.org/docs/user-guide/command-line-interface.html#fix)|
 
 ## 贡献
 
