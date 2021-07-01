@@ -759,8 +759,8 @@
                     keywords: ["Java", "Python"]
                 }],
                 languages: [{
-                    language: "中文",
-                    fluency: "母语"
+                    language: "英语",
+                    fluency: "外语"
                 },{
                     lanaguage:"English",
 					fluency: "第二门语言"
